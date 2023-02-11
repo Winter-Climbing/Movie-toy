@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-toy/static/css/main.073c9b0a.css",
+    "main.js": "/Movie-toy/static/js/main.221f3d3d.js",
+    "index.html": "/Movie-toy/index.html",
+    "main.073c9b0a.css.map": "/Movie-toy/static/css/main.073c9b0a.css.map",
+    "main.221f3d3d.js.map": "/Movie-toy/static/js/main.221f3d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.221f3d3d.js"
+  ]
+}
